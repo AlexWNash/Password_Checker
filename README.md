@@ -1,0 +1,1 @@
+checkmypass.py checks a password using the api from haveibeenpwned.com. I'm using PySimpleGui to ask the user for a password they would like to check. The output is whether or not the password has been seen in a data breach and how many times it has been seen.
